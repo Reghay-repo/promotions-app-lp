@@ -8,6 +8,7 @@
   <slot></slot>
   <Footer />
 </div>
+  <ExitIntentModal />
 </template>
 
 <style scoped>

@@ -12,6 +12,7 @@
   <Deals/>
   <HowSodaWorks />
   <StartupSpirit />
+  <Wishlist/>
   <Download/>
 </div>
 </template>

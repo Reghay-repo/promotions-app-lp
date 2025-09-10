@@ -4,7 +4,7 @@
 
 <template>
 <div class="">
-    <div class="flex justify-center gap-2">
+    <div class="flex flex-wrap justify-center gap-2">
         <button type="button" class="flex border-2 border-white items-center justify-center w-48 mt-3 text-white bg-black h-14 rounded-xl">
             <div class="mr-3">
                 <svg viewBox="0 0 384 512" width="30">
