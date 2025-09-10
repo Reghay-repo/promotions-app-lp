@@ -32,7 +32,7 @@ const navItems = computed<NavigationMenuItem[]>(() => [
     <!-- Left: Logo -->
     <template #title>
       <NuxtLink to="/" aria-label="Go to Homepage">
-        <NuxtImg src="/images/logo.avif" alt="SODA Logo" class="h-8 w-auto" />
+        <NuxtImg src="/images/logo.png" alt="SODA Logo" class="h-8 w-auto" />
       </NuxtLink>
     </template>
 
@@ -42,7 +42,7 @@ const navItems = computed<NavigationMenuItem[]>(() => [
     <!-- Right: CTA + Color Mode -->
     <template #right>
       <UButton label="Download the app" color="primary" />
-      <UColorModeButton />
+<!--      <UColorModeButton />-->
     </template>
 
     <!-- Mobile Drawer Body -->

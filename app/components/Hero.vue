@@ -49,5 +49,5 @@
 <script setup>
 // This ensures our new component is registered and ready to use
 import DealCard from '~/components/DealCard.vue';
-import sodaLogo from "/images/logo.avif"
+import sodaLogo from "/images/logo.png"
 </script>
